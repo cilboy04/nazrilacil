@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
 
-Sitemap: https://nazrilacil.site/sitemap.xml
+Sitemap: https://nazrilacil.github.io/sitemap.xml
