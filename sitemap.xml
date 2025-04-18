@@ -1,8 +1,45 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>https://nazrilacil.github.io/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-   </url>
+  <url>
+    <loc>https://nazrilacil.github.io/</loc>
+    <lastmod>2025-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url> <loc>https://nazrilacil.github.io/AnimeList</loc>
+    <lastmod>2025-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url> <loc>https://nazrilacil.github.io/WebSMK</loc>
+    <lastmod>2025-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url> <loc>https://nazrilacil.github.io/AcilWarkop</loc>
+    <lastmod>2025-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url> <loc>https://nazrilacil.github.io/UndanganPernikahan</loc>
+    <lastmod>2025-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url> <loc>https://nazrilacil.github.io/RobloxTrailer</loc>
+    <lastmod>2025-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url> <loc>https://nazrilacil.github.io/WebMovie</loc>
+    <lastmod>2025-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
